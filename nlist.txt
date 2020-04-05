@@ -1,0 +1,2 @@
+/shader/cube/cube.frag
+/shader/cube/cube.vert
